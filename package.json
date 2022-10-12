@@ -1,0 +1,24 @@
+{
+  "name": "typescript-kitchen-sink",
+  "version": "1.0.0",
+  "description": "JavaScript Kitchen Sink",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc app.ts -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgvaughan/JavaScript-Kitchen-Sink.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgvaughan/JavaScript-Kitchen-Sink/issues"
+  },
+  "homepage": "https://github.com/mgvaughan/JavaScript-Kitchen-Sink#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
